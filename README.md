@@ -4,7 +4,7 @@
 <img align="left" alt="Intellij" width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />
 
 
-[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=Hi+i+am+xobby!i+am+a+tiktoker;I+love+gaming+and+programming.)](https://github.com/xobby)
+[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=Hi+i+am+xobby!i+am+a+TechToker+and+YTuber;I+love+gaming+and+programming.)](https://github.com/xobby)
 
 
 ![GitHub stars](https://img.shields.io/github/stars/xobby?logo=github&style=social)
