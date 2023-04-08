@@ -3,9 +3,20 @@
 <img align="left" alt="PyCharm" width="40px" src="https://i.imgur.com/cCSh9nO.png" />
 <img align="left" alt="Intellij" width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />
 
+
 #
 #
-# TOXIC
+### Socials:
+<img align="left" alt="TikTok" width="40px" src="https://pngfolio.com/images/all_img/copy/1631443365tiktok-icon.png" />
+https://www.tiktok.com/@tiny.it
+
+###
+<img align="left" alt="YouTube" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
+https://www.youtube.com/@ynit
+
+
+#
+### Stats
 ![GitHub stars](https://img.shields.io/github/stars/xobby?logo=github&style=social)
 
 <section id='stats'>
