@@ -13,7 +13,3 @@
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xobby&layout=compact)
-
-### [Tiny|Community]
-<img align="left" alt="Discord" width="100px" src="https://img.favpng.com/7/9/10/discord-computer-icons-logo-social-media-png-favpng-sCqKwuEaekk7xnBMsAUfBAaku.jpg" />
-Image
