@@ -5,7 +5,7 @@
 
 #
 #
-#
+# TOXIC
 ![GitHub stars](https://img.shields.io/github/stars/xobby?logo=github&style=social)
 
 <section id='stats'>
