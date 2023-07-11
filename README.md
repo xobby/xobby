@@ -14,6 +14,12 @@ https://www.tiktok.com/@tiny.it
 <img align="left" alt="YouTube" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 https://www.youtube.com/@ynit
 
+#
+### Prototypes:
+https://www.figma.com/proto/FBR8rx7Ueug2eZz1nddjQY/Untitled?page-id=0%3A1&type=design&node-id=1-22&viewport=-601%2C271%2C0.39&t=mdIiyLnNFPog5dbI-1&scaling=contain&starting-point-node-id=1%3A9&mode=design
+#
+
+
 
 #
 ### Stats
