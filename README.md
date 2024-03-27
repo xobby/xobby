@@ -1,22 +1,33 @@
-### Coding Tools:
-<img align="left" alt="PHPStorm" width="40px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png" />
-<img align="left" alt="PyCharm" width="40px" src="https://i.imgur.com/cCSh9nO.png" />
-<img align="left" alt="Intellij" width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />
+<h1 align="center">Hi! I'm xobby/Tiny👋</h1>
 
+###
 
-#
-#
-### Prototypes:
-https://www.figma.com/proto/FBR8rx7Ueug2eZz1nddjQY/Untitled?page-id=0%3A1&type=design&node-id=1-22&viewport=-601%2C271%2C0.39&t=mdIiyLnNFPog5dbI-1&scaling=contain&starting-point-node-id=1%3A9&mode=design
-#
+<p align="left">Coding tools/languages</p>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-#
-### Stats
-![GitHub stars](https://img.shields.io/github/stars/xobby?logo=github&style=social)
+###
 
-<section id='stats'>
+<div align="left">
+  <a href="youtube.com/@ynit" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="twitch.tv/xobbytv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/6TJpQa45Z7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xobby&layout=compact)
+###
