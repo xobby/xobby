@@ -22,7 +22,7 @@
   <a href="https://youtube.com/@ynit" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://twitch.tv/xobbytv" target="_blank">
+  <a href="https://twitch.tv/ynithd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="https://discord.gg/6TJpQa45Z7" target="_blank">
