@@ -1,39 +1,38 @@
-<h1 align="center">Hi! I'm xobby/Tiny👋</h1>
+# 👋 Welcome to Xobby's GitHub Profile!
 
-###
+Hi there! I'm **Xobby**, a passionate developer with a knack for coding and creativity. Here's a little more about me:
 
-<p align="left">Coding tools/languages</p>
+## 💻 Tech Stack
 
-###
+I love exploring and working with a variety of programming languages and technologies, including:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+- **Languages:** C++, C#, JavaScript, Lua, HTML, and more!
+- **Game Development:** Proficient in creating interactive and immersive experiences.
+- **Web Development:** Crafting sleek and functional websites.
+- **Scripting:** Automating tasks and building tools to make life easier.
 
-###
+## 🌟 Current Goals
 
-<div align="left">
-  <a href="https://youtube.com/@ynit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://twitch.tv/ynithd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/cspot" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+- Expanding my skillset with new languages and frameworks.
+- Collaborating on open-source projects and innovative ideas.
+- Sharing my knowledge and projects with the community.
 
-###
+## 🔗 Connect with Me
 
-<div align="center">
-  <img height="200" src="https://github.com/xobby/xobby/blob/a436d2e50f63cdec8315d808d30d4a3ef220c0ec/Spinny%20logo%20thing.gif"  />
-</div>
+- 🎥 [YouTube](https://youtube.com/@ynit)
+- 💬 [Discord Community](https://discord.gg/chillspot)
+- 🎮 [Twitch](https://twitch.tv/tinyhdd)
 
-###
+## 📊 GitHub Stats
+
+![Xobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xobby&layout=compact&theme=radical)
+
+---
+
+### 🚀 Fun Fact
+
+I enjoy solving complex problems, learning new tech, and sharing my journey with the amazing developer community. Feel free to explore my repos, and don't hesitate to reach out if you'd like to collaborate!
+
+Thanks for stopping by! Happy coding! 😄
