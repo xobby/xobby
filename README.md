@@ -11,6 +11,11 @@ I love exploring and working with a variety of programming languages and technol
 - **Web Development:** Crafting sleek and functional websites.
 - **Scripting:** Automating tasks and building tools to make life easier.
 
+## 🌟 Current Roles
+
+- **ChillSpot:** Developer and Designer.
+- **Secton:** Designer.
+
 ## 🌟 Current Goals
 
 - Expanding my skillset with new languages and frameworks.
@@ -19,7 +24,7 @@ I love exploring and working with a variety of programming languages and technol
 
 ## 🔗 Connect with Me
 
-- 🎥 [YouTube](https://youtube.com/@ynit)
+- 🎥 [YouTube](https://youtube.com/@ynit) 
 - 💬 [Discord Community](https://discord.gg/chillspot)
 - 🎮 [Twitch](https://twitch.tv/tinyhdd)
 
