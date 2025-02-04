@@ -1,6 +1,6 @@
-# 👋 Welcome to Xobby's GitHub Profile!
+# 👋 Welcome to xobby's GitHub Profile!
 
-Hi there! I'm **Xobby**, a passionate developer with a knack for coding and creativity. Here's a little more about me:
+Hi there! I'm **xobby**, a passionate developer with a knack for coding and creativity. Here's a little more about me:
 
 ## 💻 Tech Stack
 
