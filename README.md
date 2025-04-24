@@ -1,6 +1,17 @@
+<table>
+  <tr>
+    <td>
+
 # 👋 Welcome to xobby's GitHub Profile!
 
 Hi there! I'm **xobby**, a passionate developer with a knack for coding and creativity. Here's a little more about me:
+
+  </td>
+  <td>
+    <img src="https://i.ibb.co/9HX87Rn0/tinyporcodio.png" width="200"/>
+  </td>
+</tr>
+</table>
 
 ## 💻 Tech Stack
 
