@@ -18,7 +18,6 @@ Hi there! I'm **xobby**, a passionate developer with a knack for coding and crea
 I love exploring and working with a variety of programming languages and technologies, including:
 
 - **Languages:** C++, C#, JavaScript, Lua, HTML, and more!
-- **Game Development:** Proficient in creating interactive and immersive experiences.
 - **Web Development:** Crafting sleek and functional websites.
 - **Scripting:** Automating tasks and building tools to make life easier.
 
@@ -26,6 +25,7 @@ I love exploring and working with a variety of programming languages and technol
 
 - **ChillSpot:** Developer and Designer.
 - **Secton:** Designer.
+- **AstralHosting** Security Manager.
 
 ## 🌟 Current Goals
 
@@ -41,7 +41,7 @@ I love exploring and working with a variety of programming languages and technol
 
 ## 📊 GitHub Stats
 
-![Xobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
+![xobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xobby&layout=compact&theme=radical)
 
