@@ -10,6 +10,9 @@ Hi there! I'm **xobby**, a passionate developer with a knack for coding and crea
   <td>
     <img src="https://i.ibb.co/9HX87Rn0/tinyporcodio.png" width="200"/>
   </td>
+  <p align="center">
+  <img height="25" src="https://komarev.com/ghpvc/?username=xobby&color=blueviolet" alt="Profile Views"/>
+</p>
 </tr>
 </table>
 
@@ -44,6 +47,8 @@ I love exploring and working with a variety of programming languages and technol
 ![xobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xobby&layout=compact&theme=radical)
+
+
 
 ---
 
