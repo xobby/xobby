@@ -50,7 +50,7 @@ I love exploring and working with a variety of programming languages and technol
 
 
 
----
+----
 
 ### 🚀 Fun Fact
 
