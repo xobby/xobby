@@ -27,8 +27,7 @@ I love exploring and working with a variety of programming languages and technol
 ## 🌟 Current Roles
 
 - **ChillSpot:** Developer and Designer.
-- **Secton:** Designer.
-- **AstralHosting** Security Manager.
+- **NexusHost** Security Manager.
 
 ## 🌟 Current Goals
 
