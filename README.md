@@ -26,8 +26,9 @@ I love exploring and working with a variety of programming languages and technol
 
 ## 🌟 Current Roles
 
-- **ChillSpot:** Developer and Designer.
-- **NexusHost** Security Manager.
+- **ChillSpot:** Developer & Designer.
+- **ChillTool's:** Lead Developer.
+- **VoidOS:** Developer & Designer.
 
 ## 🌟 Current Goals
 
