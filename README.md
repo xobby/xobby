@@ -39,7 +39,7 @@ I love exploring and working with a variety of programming languages and technol
 ## 🔗 Connect with Me
 - 💻 [Website](https://tinyhd.it)
 - 🎥 [YouTube](https://youtube.com/@ynit) 
-- 💬 [Discord Community](https://discord.gg/chillspot)
+- 💬 [Discord Community](https://discord.gg/vxNKHYQerK)
 - 🎮 [Twitch](https://twitch.tv/tinyhdd)
 
 ## 📊 GitHub Stats
