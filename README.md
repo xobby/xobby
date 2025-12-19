@@ -2,7 +2,7 @@
   <tr>
     <td>
 
-# 👋 Welcome to xobby's GitHub Profile!
+# 👋 Welcome fellow developer!
 
 Hi there! I'm **xobby**, a passionate developer with a knack for coding and creativity. Here's a little more about me:
 
