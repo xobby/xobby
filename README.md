@@ -44,9 +44,7 @@ I love exploring and working with a variety of programming languages and technol
 
 ## 📊 GitHub Stats
 
-![xobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=xobby&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xobby&layout=compact&theme=radical)
+![Metrics](/github-metrics.svg)
 
 
 
