@@ -2,9 +2,9 @@
   <tr>
     <td>
 
-# 👋 Welcome fellow developer!
+# 👋 Welcome fellow developer!‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-Hi there! I'm **xobby**, i make softwares, maybe??
+Hi there! I'm **xobby**, i make apps, maybe??‎
 
   </td>
   <td>
